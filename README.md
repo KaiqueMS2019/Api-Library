@@ -4,7 +4,7 @@
 
 ## 🔖Sobre
 
-A **API-Library** é uma API-REST que foi criada dentro do curso de API-REST com NODE.js e NEST.JS do **Matheus Barros**: https://www.youtube.com/watch?v=V0ye6gXFFj0&t=3s. A API se trata de um CRUDE, para uma biblioteca, pode cadastrar um livro novo, pesquisar todos os livros, pesquisar um livro pelo ID, deletar um livro pelo ID e alterar um livro pelo seu ID.
+A **API-Library** é uma API-REST que foi criada dentro do curso de API-REST com NODE.js e NEST.JS do **Matheus Barros**: https://www.youtube.com/watch?v=V0ye6gXFFj0&t=3s. A API se trata de um CRUD, para uma biblioteca, pode cadastrar um livro novo, pesquisar todos os livros, pesquisar um livro pelo ID, deletar um livro pelo ID e alterar um livro pelo seu ID.
 
 ---
 
